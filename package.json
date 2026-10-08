@@ -1,5 +1,5 @@
 {
-  "name": "console-plugin-template",
+  "name": "open-bot",
   "version": "0.0.1",
   "description": "Template project for OpenShift Console plugins",
   "private": true,
